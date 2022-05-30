@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/whatsapp-mern/static/css/main.0332c7ae.css",
+    "main.js": "/whatsapp-mern/static/js/main.d501d507.js",
+    "static/js/787.9df3cdb1.chunk.js": "/whatsapp-mern/static/js/787.9df3cdb1.chunk.js",
+    "static/media/background.png": "/whatsapp-mern/static/media/background.bded4f44087fb4e89252.png",
+    "index.html": "/whatsapp-mern/index.html",
+    "main.0332c7ae.css.map": "/whatsapp-mern/static/css/main.0332c7ae.css.map",
+    "main.d501d507.js.map": "/whatsapp-mern/static/js/main.d501d507.js.map",
+    "787.9df3cdb1.chunk.js.map": "/whatsapp-mern/static/js/787.9df3cdb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0332c7ae.css",
+    "static/js/main.d501d507.js"
+  ]
+}
