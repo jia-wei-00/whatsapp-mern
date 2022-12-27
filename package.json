@@ -2,7 +2,6 @@
   "name": "whatsapp-clone",
   "homepage": "https://jia-wei-00.github.io/whatsapp-mern/",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
